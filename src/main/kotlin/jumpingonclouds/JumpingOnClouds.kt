@@ -3,7 +3,7 @@ package jumpingonclouds
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
-class JumpingOnCloudsTest {
+class JumpingOnClouds {
 
     @Test
     fun test() {

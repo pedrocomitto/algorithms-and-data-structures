@@ -3,7 +3,7 @@ package salesbymatch
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
-class SalesByMatchTest {
+class SalesByMatch {
 
     @Test
     fun test() {

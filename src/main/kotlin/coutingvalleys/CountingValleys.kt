@@ -3,7 +3,7 @@ package coutingvalleys
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
-class CountingValleysTest {
+class CountingValleys {
 
     @Test
     fun test() {

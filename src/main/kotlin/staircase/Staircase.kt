@@ -2,7 +2,7 @@ package staircase
 
 import org.junit.jupiter.api.Test
 
-class StairCaseTest() {
+class Staircase {
 
     @Test
     fun test() {
