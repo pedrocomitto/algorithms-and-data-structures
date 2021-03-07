@@ -38,7 +38,7 @@ fun repeatedString(s: String, n: Long): Long {
 }
 
 fun repeatedString2(s: String, n: Long): Long {
-    //this one is much better
+    // this one is much better
     val div = n / s.length
     val mod = n % s.length
 
